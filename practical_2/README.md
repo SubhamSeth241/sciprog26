@@ -22,7 +22,5 @@ where "filename.c" is the name of the file where code is written, and "filename"
 
 
 
-**"Sum\_diff1.c"** demonstrates the addition of a series in two different orders, i.e., 1) starting from the first number/function of the series and 2) starting from the last number/function of that series, and the difference between the two summation results. **(20 digits after the decimal)**
-
-
+**"Sum\_diff1.c"** demonstrates the addition of a series in two different orders, i.e., 1000) starting from the first number/function of the series and 2) starting from the last number/function of that series, and the difference between the two summation results. **(20 digits after the decimal)**
 
