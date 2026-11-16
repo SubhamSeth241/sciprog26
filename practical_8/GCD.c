@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int GCD_iterative(int a, int b)
 {
